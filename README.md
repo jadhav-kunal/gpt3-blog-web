@@ -1,1 +1,1 @@
-# gpt3-blog-web
+# gpt3 blog website using React
