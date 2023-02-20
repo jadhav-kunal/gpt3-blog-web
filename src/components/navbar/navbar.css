@@ -33,6 +33,13 @@
   align-items: center;
 }
 
+.gpt3__navbar-links_container a,
+.gpt3__navbar-sign a,
+.gpt3__navbar-menu_container a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .gpt3__navbar-links_container p,
 .gpt3__navbar-sign p,
 .gpt3__navbar-menu_container p {
